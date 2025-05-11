@@ -1,0 +1,12 @@
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\bin\Debug\net8.0\TutorScheduling.Domain.deps.json
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\bin\Debug\net8.0\TutorScheduling.Domain.dll
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\bin\Debug\net8.0\TutorScheduling.Domain.pdb
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\TutorScheduling.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\TutorScheduling.Domain.AssemblyInfoInputs.cache
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\TutorScheduling.Domain.AssemblyInfo.cs
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\TutorScheduling.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\TutorScheduling.Domain.sourcelink.json
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\TutorScheduling.Domain.dll
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\refint\TutorScheduling.Domain.dll
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\TutorScheduling.Domain.pdb
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Domain\obj\Debug\net8.0\ref\TutorScheduling.Domain.dll

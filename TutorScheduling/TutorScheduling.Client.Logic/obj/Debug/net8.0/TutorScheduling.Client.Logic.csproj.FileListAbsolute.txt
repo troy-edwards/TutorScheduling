@@ -1,0 +1,12 @@
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\bin\Debug\net8.0\TutorScheduling.Client.Logic.deps.json
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\bin\Debug\net8.0\TutorScheduling.Client.Logic.dll
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\bin\Debug\net8.0\TutorScheduling.Client.Logic.pdb
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\TutorScheduling.Client.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\TutorScheduling.Client.Logic.AssemblyInfoInputs.cache
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\TutorScheduling.Client.Logic.AssemblyInfo.cs
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\TutorScheduling.Client.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\TutorScheduling.Client.Logic.sourcelink.json
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\TutorScheduling.Client.Logic.dll
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\refint\TutorScheduling.Client.Logic.dll
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\TutorScheduling.Client.Logic.pdb
+C:\Users\Troy Edwards\Documents\Projects\TutorScheduling\TutorScheduling\TutorScheduling\TutorScheduling.Client.Logic\obj\Debug\net8.0\ref\TutorScheduling.Client.Logic.dll
