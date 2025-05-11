@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TutorScheduling.API.props" />
+</Project>
